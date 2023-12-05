@@ -6,4 +6,3 @@ def weight_conversion():
         print(f"berat anda dikonversi menjadi kilogram adalah {round(berat * 0.453592)} kg")
     elif satuan.lower() == 'k':
         print(f"Berat anda dikonversi menjadi pons adalah {round(berat * 2.20462)} lbs")
-        

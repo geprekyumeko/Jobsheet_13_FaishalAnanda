@@ -1,4 +1,4 @@
-# Created by Prayitno
+# Created by Prayitno 
 # Politeknik Negeri Semarang
 
 def guess_number():
