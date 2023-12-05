@@ -1,5 +1,5 @@
 # Praktikum Dasar Pemrograman kelas TI-1B
-Created by Prayitno
+Created by Faishal Ananda
 
 ## Contoh Kode
 Kode Guess Number
